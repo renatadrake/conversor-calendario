@@ -20,7 +20,7 @@ Formatação de datas: Formata datas de acordo com padrões personalizados.
 Cálculos avançados: Realiza cálculos complexos envolvendo datas, como o cálculo do equinócio de março.
 
 Tecnologias Utilizadas
-- Java: Linguagem de programação utilizada para desenvolver o projeto.
+- JavaScript: Linguagem de programação utilizada para desenvolver o projeto.
 - Joda-Time: Biblioteca Java para manipulação de datas e horários.
 
 Agradecimentos
