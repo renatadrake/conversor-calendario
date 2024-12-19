@@ -1,10 +1,12 @@
 #Conversor de Datas
+
 Descrição
+
 Este projeto fornece uma ferramenta para converter datas entre diversos formatos de calendário. Ele utiliza a biblioteca Joda-Time, que oferece uma API robusta e intuitiva para manipulação de datas e horários em Java.
 
 Funcionalidades Principais:
 
-Conversão entre calendários: Permite converter datas entre os seguintes calendários:
+Permite converter datas entre os seguintes calendários:
 - Gregoriano
 - Juliano
 - Hebraico
